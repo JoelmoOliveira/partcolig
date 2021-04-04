@@ -1,0 +1,19 @@
+Package: testepac
+Type: Package
+Title: Pacote de dados Eleitorais
+Version: 1.0
+Date: 2021-04-04
+Authors@R: 
+    person(given = "Joelmo",
+           family = "Oliveira",
+           role = c("aut", "cre"),
+           email = "joelmo.oliveira@mctic.gov.br",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Dados Coligacoes Estaduais Majoritarias
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+
